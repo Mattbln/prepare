@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "DYCALL",
+  name: "Prepare",
   description:
     "DYCALL permet aux entreprises de rendre le cold calling (prospection téléphonique) ludique et mesurable avec des jeux et des statistiques.",
   url: "https://prepare-mattbln.vercel.app/",
